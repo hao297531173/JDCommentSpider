@@ -7,6 +7,8 @@ selenium python自动化测试框架<br>
 bs4 BeautifulSoup html元素提取器<br>
 jieba jieba分词器<br>
 wordcloud 词云<br>
+matlibplot 2D绘图库<br>
+pyecharts 图表库<br>
 以及nlp在线分析网站 [boson](https://bosonnlp.com)<br>
 ### 文件夹解析<br>
 anaImage---存放所有的图表<br>
